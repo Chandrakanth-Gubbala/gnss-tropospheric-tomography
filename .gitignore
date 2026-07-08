@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+outputs/
+data/raw/
+data/private/
+*.nc
+*.h5
+*.xlsx
+*.csv
+
